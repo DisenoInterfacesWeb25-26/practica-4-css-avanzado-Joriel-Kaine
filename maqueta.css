@@ -79,11 +79,19 @@
 @media (min-width: 700px) and (max-width: 1199px) {
     body{
         font-family: 'Calibri';
+        font-size: 18px;
+    }
+
+    .navegacion2 {
+        display: none;
     }
 
     .contenido {
         float: left;
         width: 80%;
+        margin-top: 0%;
+        padding-top: 14%;
+        padding-bottom: 14%;
     }
 
     .publicidad {
@@ -99,6 +107,7 @@
 @media (max-width: 699px) {
     body {
         font-family: 'Times New Roman';
+        font-size: 16px;
     }
 
     .navegacion1, .navegacion2, .publicidad {
