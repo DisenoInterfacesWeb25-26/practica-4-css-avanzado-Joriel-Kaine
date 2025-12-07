@@ -125,7 +125,7 @@ footer {
     transform: scale(1.5)
 }
 
-/*main - ofertas y info supermercado*/
+/* main - ofertas y info supermercado */
 img:not([alt]) {
     border: 3px solid red;
 }
